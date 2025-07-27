@@ -1,0 +1,63 @@
+h1,h2,a{
+    color:turquoise;
+    font-weight: 400;
+    padding-left: 10px;
+    font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+}
+p{
+    color:#141d38;
+    padding-left: 20px;
+    font-size: medium;
+    font-family: "Commissioner", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "FLAR" 0,
+    "VOLM" 0;
+}
+hr{
+    border: 2px solid red;
+}
+#h21{
+    display: flex;
+    justify-content: center;
+   
+}
+article{
+    background-color: #fcdb32;    
+
+}
+
+.hrtag{
+    border: 2px solid red;
+}
+
+.container>.row .col{
+    width: 90vw;
+    z-index: 1;
+    
+}
+.container>.row>.col :hover{
+    background-color: #fffffd;
+    
+    transition: 2ms;
+
+}
+
+footer>a{
+    position: relative;
+    left: 44.5%;
+}
+body{
+    background: scroll;
+    background-image: url(https://colorcodes.imgix.net/pIPB5XyYYF0C5mHnAoLxa/6c2610fb3ce98eae496df7c1d4556685/html-color-codes-best-prototyping-tools-hero.jpg?w=3840&q=60&auto=format,compress);
+}
+footer{
+    background-color: bisque;
+}
